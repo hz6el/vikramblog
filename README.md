@@ -2,7 +2,7 @@
 
 > "To attain knowledge, add things every day. To attain wisdom, remove things every day". — Lao Tzu, ancient Chinese philosopher
 
-This is my Obsidian Vault clone and I'm using Quartz v4 for publish my most well polished notes. 
+This is my Obsidian Vault clone and I'm using [Quartz v4](https://quartz.jzhao.xyz/) for publish my most well polished notes. 
 
 [MyAnimeList](https://myanimelist.net/profile/hz6el) ‖ [Twitter](https://x.com/hz6e1)
 
