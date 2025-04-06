@@ -29,5 +29,3 @@ India have won 60 medals at the Paralympic Games - 16 golds, 21 silvers and 23 b
 
 ---
 Source: [India’s Paralympics medal winners: The full list](https://olympics.com/en/news/india-paralympics-medals) 
-
----

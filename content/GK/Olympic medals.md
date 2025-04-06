@@ -60,5 +60,3 @@ India has since won 41 medals across 25 Olympic Games - 10 golds, 10 silvers and
 
 ---
 Source: [Indian Olympic medal winners: A comprehensive list](https://olympics.com/en/news/india-olympics-medals)
-
----

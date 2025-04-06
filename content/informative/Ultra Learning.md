@@ -40,5 +40,3 @@ The book "Ultra Learning" by Scott Young explores a strategy for intense, self-d
 
 ---
 Source: [Ultralearning: How to Rapidly Learn and Master New Skills - (SUMMARY)](https://youtu.be/RyfhnpzoIjA)
-
----

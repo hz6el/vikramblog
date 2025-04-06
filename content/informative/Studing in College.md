@@ -34,5 +34,3 @@ Procrastination is an emotional management problem.
 - [[Ingredients for Learning]]
 
 Source: [How to Do Well in College](https://youtube.com/playlist?list=PL7YPshZMeLIa2KksLNqmWx_SANbSjaUbU)
-
----

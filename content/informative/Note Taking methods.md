@@ -29,5 +29,3 @@ extra tips:
 Source: 
 - [I stopped taking notes in medical school](https://youtu.be/JNJJEFzaOiA) 
 - [How to dominate ANY subject using the T Tree study method](https://youtu.be/xIukxbw0Jr4)
-
----

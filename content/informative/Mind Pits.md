@@ -14,5 +14,3 @@
 Also see: [[Learning & the Subconscious#How to have positive thoughts?|Reframe your thoughts]]
 
 Source: [3 habits to kill your confidence । Shadé Zahrai । TEDxMonashUniversity](https://youtu.be/YUdiyhiyVVc)
-
----

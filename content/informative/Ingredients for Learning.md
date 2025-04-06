@@ -63,5 +63,3 @@ Repetition is key to reinforcing connections in the brain and improving *recall*
 Also see: [[Ultra Learning]]
 
 Source: [Brain Hack: 6 secrets to learning faster, backed by neuroscience । Lila Landowski । TEDxHobart](https://youtu.be/kKvK2foOTJM)
-
----

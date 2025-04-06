@@ -40,7 +40,3 @@ Hand gestures increase the clarity of your message.
 
 ---
 Source:: [Free Virtual Fridays with Vinh Giang](https://youtu.be/44Q4A3cEzzc)
-
----
-
-

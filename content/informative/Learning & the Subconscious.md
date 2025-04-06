@@ -33,5 +33,3 @@ You should control what goes into your subconscious and build **positive** thoug
 
 ---
 Source: [Study Tips from Dr. K, 2.5 GPA to Medical School to Harvard Residency । Dr. K Explains](https://youtu.be/Lw4dMehQkgs) 
-
----

@@ -22,6 +22,3 @@ Remember to:
 	2. ==Read books as if you are presenting it to an audience==.
 	3. Break out of your mold by talking to new people(neutral ears), try improv classes or reciting children's books.
 3. =="Yes and..."==: See spontaneous speaking situations as opportunity and have fun.
-
-
-***

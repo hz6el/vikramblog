@@ -13,5 +13,3 @@ This is the last part of the CFOP (Cross, First 2 Layers, Orientation, Permutati
 
 ---
 Source: [J Perm: 2-Look PLL](https://jperm.net/algs/2look/pll)
-
----

@@ -5,5 +5,3 @@
 	- Use examples and illustrations.
 
 3. Go back notes and work on the weak areas (in step 2) - that you struggled to explain or haven't understood properly. 
-
-***

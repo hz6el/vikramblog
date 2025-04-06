@@ -14,5 +14,3 @@ A link is formed everytime you talk with someone. We are in a World Wide Web of 
 
 ---
 Source: [7 Ways to Make a Conversation With Anyone । Malavika Varadan । TEDxBITSPilanDubai](https://youtu.be/F4Zu5ZZAG7I)
-
----

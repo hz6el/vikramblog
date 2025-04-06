@@ -31,5 +31,3 @@ Also See: [[Forensic Infrastructure in India]]
 Source: 
 - [Cabinet approves Central Sector Scheme “National Forensic Infrastructure Enhancement Scheme” (N.F.l.E.S.)](https://pib.gov.in/PressReleasePage.aspx?PRID=2026704)
 - [NATIONAL FORENSIC INFRASTRUCTURE ENHANCEMENT SCHEME](https://pib.gov.in/PressReleasePage.aspx?PRID=2039649) 
-
----

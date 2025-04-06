@@ -16,5 +16,3 @@ This is part of the CFOP (Cross, First 2 Layers, Orientation, Permutation) metho
 
 ---
 Source: [J Perm: 2-Look OLL](https://jperm.net/algs/2lookoll) 
-
----

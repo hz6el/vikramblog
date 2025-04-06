@@ -20,5 +20,3 @@ Aspects to keep in mind on buying a monitor:
 
 ---
 Source: [WINNER: The Ultimate Guide to Gaming](https://youtu.be/evb0BbpGNWs)
-
----

@@ -56,6 +56,4 @@ Aids in Conflict Resolution: Non-verbal cues can de-escalate conflicts by convey
 ---
 Source: 
 - [Non-Verbal Communication Meaning and characteristics](https://indiafreenotes.com/non-verbal-communication-meaning-and-characteristics/#google_vignette) 
-- [What is Non-Verbal Communication? : It’s importance and types](https://www.lisedunetwork.com/importance-of-non-verbal-communication/) 
-
----
+- [What is Non-Verbal Communication? : It’s importance and types](https://www.lisedunetwork.com/importance-of-non-verbal-communication/)

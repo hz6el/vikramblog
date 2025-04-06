@@ -21,5 +21,3 @@ Tips:
 
 ---
 Source: [How to Deliver a Extemporaneous Presentation or Speech](https://youtu.be/41ZBTgYSl0c?si=3E566e9plDhgpXXq) 
-
----

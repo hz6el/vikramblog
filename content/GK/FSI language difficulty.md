@@ -8,5 +8,3 @@ FSI language ranking system that rates languages in terms of how long it usually
 
 ---
 Source: [FSI Language Difficulty Ranking](https://www.fsi-language-courses.org/blog/fsi-language-difficulty/) 
-
----

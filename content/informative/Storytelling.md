@@ -28,5 +28,3 @@ Hormones effecting the mood of an story:
 >Show, not tell.
 
 **Understanding the audience**: Use strategies like surprise questions, humor, or disruptions; according to the mood of the audience.
-
-***

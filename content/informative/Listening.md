@@ -36,5 +36,3 @@ How to convey your opinion in a non-judgemental way?
 
 ---
 Source: [Psychiatrist Guide to Conversation ‌‌‍‍। Healthy Gamer Webinar #7](https://youtu.be/tIATzLf-y04 ) 
-
----

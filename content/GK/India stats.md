@@ -9,5 +9,3 @@ Source:
 - [UN DESA Policy Brief No. 153: India overtakes China as the world’s most populous country](https://www.un.org/development/desa/dpad/publication/un-desa-policy-brief-no-153-india-overtakes-china-as-the-worlds-most-populous-country/)
 - [Worldometers: GDP by Country](https://www.worldometers.info/gdp/gdp-by-country/)
 - [IMF: World Economic Outlook-India](https://www.imf.org/external/datamapper/profile/IND)
-
----

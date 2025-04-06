@@ -24,6 +24,3 @@
 22. Double Check
 23. Danish Gambit 
 24. 
-
-
-***

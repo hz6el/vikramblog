@@ -48,6 +48,3 @@ Three major pillars of mind are *manas* (emotion), *ahamkara* (ego), *buddhi* (i
 
 ---
 Source: [Can You Have a Healthy Ego?](https://youtu.be/MtrN9iyKRwk) 
-
----
-

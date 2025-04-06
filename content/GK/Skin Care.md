@@ -26,5 +26,3 @@ Remember that these recommendations are based on evidence-based practices. Howev
 
 ---
 Source: [My Evidence-Based Skin Care Routine](https://youtu.be/OrElyY7MFVs) 
-
----

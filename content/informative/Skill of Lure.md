@@ -76,5 +76,3 @@ Psychology Theories:
 >"Art of seduction is the ability to take the intimate feelings you have in your heart and translating that into words. Forget grabbing numbers and becoming good friends... you should first always keep that in mind at all times!"
 >
 >"When meeting someone for the first time the first impression really comes down to the first 5-10 seconds of your meeting"
-
-***
