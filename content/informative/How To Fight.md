@@ -37,7 +37,7 @@ Effective Techniques:
 
 {Ch 23} How to fight & win against multiple opponents: Bluff & momentum (Mantis Bluff)
 
- #### {Ch 32} How to fight & win: against Kickboxing: #mcl/list-card 
+ #### {Ch 32} How to fight & win: against Kickboxing: 
 1. Acrobatics combinations.
 2. Area limitations, so they can't back step.
 3. That will trigger Grappling Knee Strike from the opponent.
@@ -69,7 +69,7 @@ Note: Useless against a Outboxer.
 {Ch 63} WTF & ITF Taekwondo 
 
 ***
- #### {Ch 71} How to fight and win against Jiu Jitsu #mcl/list-card 
+ #### {Ch 71} How to fight and win against Jiu Jitsu 
 - Jiu Jitsu means Grappling. It twists joins & pressures your arteries.
 - Don't let them grab your limbs. Close your arms. 
 - They'll go for the leg. Do a Knee Kick on the face (nose)
@@ -95,7 +95,7 @@ Techniques-
 	- *Combo*: One-Two & Head Kick
 	- D'arch Choke
 
- #### {Ch 129} How to fight and win against a wrestler? #mcl/list-card 
+ #### {Ch 129} How to fight and win against a wrestler? 
 Grapplers use traps (Upper Trapezius) to pin their enemy down. 
 1. Don't get caught, keep your guard up
 2. Confuse them with signs of getting ready to punch and kick
