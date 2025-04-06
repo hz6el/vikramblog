@@ -7,7 +7,7 @@ year: "1887"
 # A STUDY OF THE SCARLET  (pt. 1)
 
 
-- ## CH I. MR.  SHERLOCK HOLMES. #mcl/list-card 
+- ## CH I. MR.  SHERLOCK HOLMES. 
 	Introduction of Sherlock Holmes through the lens of Dr. John H. Watson. 
 	Highlight being Mr. Holmes being able to guess that Dr. Watson have been in Afghanistan through pure deduction. 
 	As well as his passion for discovering new effective methods related to solving crimes. 
