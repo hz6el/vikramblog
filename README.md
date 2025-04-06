@@ -5,9 +5,9 @@
 ## [THE BLOG](https://hz6el.github.io/vikramblog/)
 This is my Obsidian Vault clone and I'm using [Quartz v4](https://quartz.jzhao.xyz/) for publish my most well polished notes. 
 
-Links: [Twitter](https://x.com/hz6e1)
+Links: [My Twitter](https://x.com/hz6e1) (not calling it X)
 
-## Inspirations
+## My Greatest Inspirations
 
 <p align="center">
   <a href="https://www.leonardodavinci.net/">
