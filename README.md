@@ -1,18 +1,19 @@
-# Quartz v4
+# Hazel's Blog
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+> "To attain knowledge, add things every day. To attain wisdom, remove things every day". — Lao Tzu, ancient Chinese philosopher
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+This is my Obsidian Vault clone and I'm using Quartz v4 for publish my most well polished notes. 
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+[Link to MyAnimeList account](https://myanimelist.net/profile/hz6el)
+[Link to my Twitter](https://x.com/hz6e1)
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
+## Inspirations
 
 <p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
+  <a href="https://www.leonardodavinci.net/">
+    <img src="https://www.leonardodavinci.net/assets/img/leonardo-da-vinci.jpg" />
+  </a>
+   <a href="https://www.space.com/15524-albert-einstein.html">
+    <img src="https://hips.hearstapps.com/hmg-prod/images/albert-einstein-gettyimages-123395987.jpg" />
   </a>
 </p>

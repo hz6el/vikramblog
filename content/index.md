@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Hazel's Blog
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Contents
+1. 
+2. 
+3. 
