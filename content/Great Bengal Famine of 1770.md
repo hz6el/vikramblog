@@ -1,0 +1,5 @@
+- in 1769, there was a monsoon failure followed by severe drought.
+- between 1769 and 1773 
+- almost 10 million people - 1/3rd of the population perished in the region 
+- affected regions of Assam, Odisha, Jharkhand & Bangladesh
+- famine caused by the company’s tax and revenue policies as well as apathy to the suffering.

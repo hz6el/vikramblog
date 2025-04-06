@@ -4,7 +4,7 @@
 
 This is my Obsidian Vault clone and I'm using [Quartz v4](https://quartz.jzhao.xyz/) for publish my most well polished notes. 
 
-[MyAnimeList](https://myanimelist.net/profile/hz6el) ‖ [Twitter](https://x.com/hz6e1)
+Links: [MyAnimeList](https://myanimelist.net/profile/hz6el) ‖ [Twitter](https://x.com/hz6e1)
 
 ## Inspirations
 
